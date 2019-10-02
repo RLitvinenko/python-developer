@@ -12,12 +12,24 @@ elif operator == '+':
     result = a + b
 elif operator == '-':
     result = a - b
-elif operator == '/':
-    result = a / b
-else:
-    print_('error')
-print("resultat", result)
-#test
+#elif operator == '/':
+#    result = a / b
+#else:
+#    print_('error')
+#print("resultat", result)
+##test
+
+
+
+
+
+
+a = True
+b = False
+print(a and b)
+print(a or b)
+print (not a)
+
 
 
 
