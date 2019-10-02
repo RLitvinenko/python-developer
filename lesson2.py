@@ -67,3 +67,27 @@
 #print(a.find("e"))
 #print(a.lower().upper())
 #print(c)
+
+#a = 'Hello world'
+#c = len(a)
+#z= c - 1
+#b = a[z]
+#print(b)
+#b = a [6::2]
+#b = a[:]
+#print(b)
+#print(a[0])
+
+
+
+
+#a = 'hello world'
+#c = len(a)
+#c1 = "ajgajgs"
+#b = "len a =  {1}, {0}".format(c, c1)
+#b = "len a = {rt} , {tt}". format(rt=c, tt=c1)
+#b = f"len a = {c}"
+#print (b)
+
+
+
