@@ -23,3 +23,17 @@
 #print(b)
 
 
+#a = input(pun shtoto)
+#try:
+#    int(a)
+#except
+#    print(error)
+
+#print(a.isalnum())
+
+import math
+a = int(input("put a"))
+s = math.pi * a**2
+print(s)
+a#=input(a(Vedite diagonal p)
+#b=input(b(Vedite diagonal r))
