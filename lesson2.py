@@ -39,7 +39,9 @@
 #print (a or b)
 #print (not a)
 #print (not b)
-
+a =3
+b=4
+print(a or b)
 
 #a = 5
 #b = 10
