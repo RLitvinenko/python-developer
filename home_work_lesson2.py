@@ -1,7 +1,7 @@
 # 1 задание
-#a = input('vvedite slovo')
-#b = input('vvedite slovo 2')
-#print (a, b)
+a = input('vvedite slovo')
+b = input('vvedite slovo 2')
+print (a, b)
 
 # 2 задание
 a = True
