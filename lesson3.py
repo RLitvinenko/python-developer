@@ -14,8 +14,9 @@
 
 x = 5
 b = 3
-k = int(input())
+k = int(input('купи мороженого сколько тебе шариков ?'))
 if k != x and k != b:
-    print('no morjo')
+    print('нет, или 3 или 5 шариков')
 else:
-    print('morjo')
+    print('держи мороженку')
+
